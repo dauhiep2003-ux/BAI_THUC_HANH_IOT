@@ -1,4 +1,5 @@
 BÀI THỰC HÀNH SỐ 2: THU THẬP, LƯU TRỮ VÀ TIỀN XỬ LÝ DỮ LIỆU IOT
+
 Học phần: IoT và Ứng dụng (INT14149)
 Sinh viên: Đậu Tam Hiêp-B22DCCN294
 1. Kiến trúc hệ thống

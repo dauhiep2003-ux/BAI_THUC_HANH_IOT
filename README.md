@@ -1,6 +1,6 @@
 BÀI THỰC HÀNH SỐ 2: THU THẬP, LƯU TRỮ VÀ TIỀN XỬ LÝ DỮ LIỆU IOT
 Học phần: IoT và Ứng dụng (INT14149)
-Sinh viên: ĐẬU TAM HIỆP
+Sinh viên: ĐẬU TAM HIỆP-B22DCCN924
 1. Kiến trúc hệ thống
 ESP32 (Wokwi) -> EMQX Public Broker (MQTT) -> Python Ingest Worker -> InfluxDB 2.x (TSDB) -> Preprocessing Pipeline (IQR Filter, Resampling 15s, Min-Max Scaler) -> Data Explorer / Dashboard.
 
